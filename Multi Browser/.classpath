@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/poi-3.12/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/selenium-java-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/selenium-server-standalone-2.46.0(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumaia/Desktop/Jars_file/selenium-2.46.0/libs/guava-18.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
